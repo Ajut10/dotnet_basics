@@ -1,0 +1,2 @@
+E:\doty\ConsoleApp1\ConsoleApp1\obj\Debug\array.csproj.AssemblyReference.cache
+E:\doty\ConsoleApp1\ConsoleApp1\obj\Debug\array.csproj.CoreCompileInputs.cache
